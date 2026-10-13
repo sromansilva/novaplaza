@@ -1,0 +1,17 @@
+node_modules/
+*.log
+.env
+.env.*
+!.env.example
+__pycache__/
+.DS_Store
+
+# Local audit caches and bulk screenshots; reports and reproducible checks are versioned.
+auditoria/capturas/
+auditoria/graphify-cache/
+auditoria/graphify-out/
+auditoria/browser-results.json
+auditoria/static-results.json
+auditoria/redesign/*.png
+!auditoria/redesign/vista-previa.png
+auditoria/redesign/first-pass-results.json

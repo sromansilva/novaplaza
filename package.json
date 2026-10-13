@@ -1,0 +1,14 @@
+{
+  "name": "novaplaza",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Experiencia de comercio electrónico de demostración, sin dependencias de runtime.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build-pages.mjs && node scripts/check.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

@@ -1,132 +1,22 @@
 <!DOCTYPE html>
-<html lang="es">
-
+<html lang="es" data-theme="light">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="HandheldFriendly" content="true">
-    <meta content="IE=edge" http-equiv="X-UA-Compatible">
-    <title>Nova Plaza</title>
-
-    <!-- Links -->
-    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
-    <link rel="stylesheet" href="css/libs.min.css">
-    <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="css/simple-line-icons.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
-        rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Marcellus&display=swap" rel="stylesheet">
-
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-    <script src="js/libs.js"></script>
-    <script src="js/main.js"></script>
-
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#7460d8">
+  <meta name="description" content="Descubre moda, tecnología y buenos planes en Nova Plaza. Una experiencia de compras de demostración.">
+  <title>Descubre · Nova Plaza</title>
+  <link rel="icon" href="img/logo.png" type="image/png">
+  <script src="js/theme.js"></script>
+  <link rel="stylesheet" href="css/nova.css">
+  <script type="module" src="js/app.js"></script>
 </head>
-
-<body>
-
-    <!-- Animacion de Carga-->
-    <div id="page-preloader">
-        <div class="preloader-1">
-            <div class="loader-text">Cargando</div>
-            <span class="line line-1"></span>
-            <span class="line line-2"></span>
-            <span class="line line-3"></span>
-            <span class="line line-4"></span>
-            <span class="line line-5"></span>
-            <span class="line line-6"></span>
-            <span class="line line-7"></span>
-            <span class="line line-8"></span>
-            <span class="line line-9"></span>
-        </div>
-        
-    </div>
-    <!-- Fin Animacion-->
-
-    <div class="welcome-page">
-        <div class="uk-text-center" uk-grid>
-            <div class="uk-width-expand@m uk-visible@m page-first-screen">
-                <div class="fl-hd-cover"></div>
-                <div class="uk-card  uk-card-body "></div>
-            </div>
-            <div class="uk-width-expand@m">
-                <div class="form-login">
-                    <div class="form-login__social">
-                        <!-- Logo y Nombre -->
-                        <div class="logo-container">
-                            <img src="img/logo.png" alt="Logo Nova Plaza" class="logo-img">
-                            <span class="logo-text">Nova Plaza</span>
-                        </div>
-                        <!-- Fin Logo y Nombre -->
-
-                        <!-- Redes Sociales -->
-                        <ul class="social">
-                            <li><a href="http://www.google.com"><img src="img/svgico/google.svg" alt="Google"></a>
-                            </li>
-                            <li><a href="http://www.facebook.com"><img src="img/svgico/facebook.svg"
-                                        alt="Facebook"></a></li>
-                            <li><a href="http://www.twitter.com"><img src="img/svgico/twitter.svg" alt="Ex"></a></li>
-                        </ul>
-                    </div>
-
-                    <div class="form-login__box">
-                        <div class="uk-heading-line uk-text-center"><span>ó con correo electrónico</span></div>
-                        <form id="login-form">
-                            <div class="uk-margin"><input class="uk-input" type="text" id="username" placeholder="Usuario"></div>
-                            <div class="uk-margin"><input class="uk-input" type="password" id="password" placeholder="Contraseña"></div>
-                            <div class="uk-margin"><button class="uk-button uk-button-danger uk-width-1-1" type="submit">Iniciar Sesión</button></div>
-                            <div class="uk-margin uk-text-center"><a href="index.html">¿Olvidé mi contraseña?</a></div>
-                            <hr>
-                            <div class="uk-text-center"><span>¿No tienes una cuenta?</span><a class="uk-margin-small-left" href="html/02_register.html">Registrate</a></div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-    
-    <!-- Modo Oscuro -->
-    <input id="toggle" type="checkbox">
-    <script type="text/javascript">
-        document.getElementById("toggle").addEventListener("click", function () {
-            document.getElementsByTagName('body')[0].classList.toggle("dark-theme");
-        });
-    </script>
-    
-    <script type="text/javascript">
-        // Validación del formulario de inicio de sesión
-        document.getElementById("login-form").addEventListener("submit", function(event) {
-            event.preventDefault(); // Evitar el envío del formulario
-    
-            // Obtener valores de los campos
-            var username = document.getElementById("username").value.trim();
-            var password = document.getElementById("password").value.trim();
-    
-            // Validación de campos vacíos
-            if (username === "" || password === "") {
-                Swal.fire({
-                    icon: 'error',
-                    title: 'Oops...',
-                    text: 'Por favor, completa todos los campos.',
-                });
-                return; // Detener la ejecución si algún campo está vacío
-            }
-    
-            // Si todo es válido, mostrar alerta de éxito
-            Swal.fire({
-                icon: 'success',
-                title: '¡Iniciando sesión!',
-                text: 'Redirigiendo a la página principal...',
-                showConfirmButton: false,
-                timer: 2000 // Cerrar automáticamente después de 2 segundos
-            }).then(() => {
-                // Redirigir a la página principal después de la alerta
-                window.location.href = "html/03_home.html";
-            });
-        });
-    </script>
-
+<body data-page="home">
+  <a class="skip-link" href="#main">Saltar al contenido</a>
+  <div id="app"><main id="main" class="loading-state"><span class="loading-orbit" aria-hidden="true"></span><p>Preparando tu próxima buena compra…</p></main></div>
+  <noscript><p class="noscript-message">Activa JavaScript para explorar el catálogo interactivo. Esta demostración guarda los cambios en tu navegador.</p></noscript>
+  <div id="toast-region" class="toast-region" aria-live="polite" aria-atomic="true"></div>
+  <dialog id="modal" aria-labelledby="modal-title"></dialog>
+  <dialog id="mobile-nav" class="nav-dialog" aria-labelledby="mobile-nav-title"></dialog>
 </body>
-
 </html>

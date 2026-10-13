@@ -1,0 +1,973 @@
+{
+  "date": "2026-10-13",
+  "states": [
+    {
+      "route": "/",
+      "width": 1440,
+      "theme": "light",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "home-1440-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/01_login.html",
+      "width": 1440,
+      "theme": "light",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "01_login-1440-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/02_register.html",
+      "width": 1440,
+      "theme": "light",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "02_register-1440-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/03_home.html",
+      "width": 1440,
+      "theme": "light",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "03_home-1440-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/04_profile.html",
+      "width": 1440,
+      "theme": "light",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "04_profile-1440-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/05_favorites.html",
+      "width": 1440,
+      "theme": "light",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "05_favorites-1440-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/06_wallet.html",
+      "width": 1440,
+      "theme": "light",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "06_wallet-1440-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/07_stores.html",
+      "width": 1440,
+      "theme": "light",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "07_stores-1440-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/08_cart.html",
+      "width": 1440,
+      "theme": "light",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "08_cart-1440-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/09_store_profile.html?product=superstar",
+      "width": 1440,
+      "theme": "light",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "09_store_profile-1440-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "theme": "dark",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "home-1440-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/01_login.html",
+      "width": 1440,
+      "theme": "dark",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "01_login-1440-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/02_register.html",
+      "width": 1440,
+      "theme": "dark",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "02_register-1440-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/03_home.html",
+      "width": 1440,
+      "theme": "dark",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "03_home-1440-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/04_profile.html",
+      "width": 1440,
+      "theme": "dark",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "04_profile-1440-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/05_favorites.html",
+      "width": 1440,
+      "theme": "dark",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "05_favorites-1440-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/06_wallet.html",
+      "width": 1440,
+      "theme": "dark",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "06_wallet-1440-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/07_stores.html",
+      "width": 1440,
+      "theme": "dark",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "07_stores-1440-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/08_cart.html",
+      "width": 1440,
+      "theme": "dark",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "08_cart-1440-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/09_store_profile.html?product=superstar",
+      "width": 1440,
+      "theme": "dark",
+      "layout": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "09_store_profile-1440-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "theme": "light",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "home-390-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/01_login.html",
+      "width": 390,
+      "theme": "light",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "01_login-390-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/02_register.html",
+      "width": 390,
+      "theme": "light",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "02_register-390-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/03_home.html",
+      "width": 390,
+      "theme": "light",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "03_home-390-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/04_profile.html",
+      "width": 390,
+      "theme": "light",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "04_profile-390-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/05_favorites.html",
+      "width": 390,
+      "theme": "light",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "05_favorites-390-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/06_wallet.html",
+      "width": 390,
+      "theme": "light",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "06_wallet-390-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/07_stores.html",
+      "width": 390,
+      "theme": "light",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "07_stores-390-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/08_cart.html",
+      "width": 390,
+      "theme": "light",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "08_cart-390-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/09_store_profile.html?product=superstar",
+      "width": 390,
+      "theme": "light",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "09_store_profile-390-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "theme": "dark",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "home-390-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/01_login.html",
+      "width": 390,
+      "theme": "dark",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "01_login-390-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/02_register.html",
+      "width": 390,
+      "theme": "dark",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "02_register-390-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/03_home.html",
+      "width": 390,
+      "theme": "dark",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "03_home-390-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/04_profile.html",
+      "width": 390,
+      "theme": "dark",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "04_profile-390-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/05_favorites.html",
+      "width": 390,
+      "theme": "dark",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "05_favorites-390-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/06_wallet.html",
+      "width": 390,
+      "theme": "dark",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "06_wallet-390-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/07_stores.html",
+      "width": 390,
+      "theme": "dark",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "07_stores-390-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/08_cart.html",
+      "width": 390,
+      "theme": "dark",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "08_cart-390-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/09_store_profile.html?product=superstar",
+      "width": 390,
+      "theme": "dark",
+      "layout": {
+        "width": 390,
+        "documentWidth": 390,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "09_store_profile-390-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/",
+      "width": 320,
+      "theme": "light",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "home-320-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/01_login.html",
+      "width": 320,
+      "theme": "light",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "01_login-320-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/02_register.html",
+      "width": 320,
+      "theme": "light",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "02_register-320-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/03_home.html",
+      "width": 320,
+      "theme": "light",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "03_home-320-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/04_profile.html",
+      "width": 320,
+      "theme": "light",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "04_profile-320-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/05_favorites.html",
+      "width": 320,
+      "theme": "light",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "05_favorites-320-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/06_wallet.html",
+      "width": 320,
+      "theme": "light",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "06_wallet-320-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/07_stores.html",
+      "width": 320,
+      "theme": "light",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "07_stores-320-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/08_cart.html",
+      "width": 320,
+      "theme": "light",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "08_cart-320-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/09_store_profile.html?product=superstar",
+      "width": 320,
+      "theme": "light",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "09_store_profile-320-light.png",
+      "accessibility": []
+    },
+    {
+      "route": "/",
+      "width": 320,
+      "theme": "dark",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "home-320-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/01_login.html",
+      "width": 320,
+      "theme": "dark",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "01_login-320-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/02_register.html",
+      "width": 320,
+      "theme": "dark",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "02_register-320-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/03_home.html",
+      "width": 320,
+      "theme": "dark",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "03_home-320-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/04_profile.html",
+      "width": 320,
+      "theme": "dark",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "04_profile-320-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/05_favorites.html",
+      "width": 320,
+      "theme": "dark",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "05_favorites-320-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/06_wallet.html",
+      "width": 320,
+      "theme": "dark",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "06_wallet-320-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/07_stores.html",
+      "width": 320,
+      "theme": "dark",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "07_stores-320-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/08_cart.html",
+      "width": 320,
+      "theme": "dark",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "08_cart-320-dark.png",
+      "accessibility": []
+    },
+    {
+      "route": "/html/09_store_profile.html?product=superstar",
+      "width": 320,
+      "theme": "dark",
+      "layout": {
+        "width": 320,
+        "documentWidth": 320,
+        "brokenImages": []
+      },
+      "errors": [],
+      "failed": [],
+      "screenshot": "09_store_profile-320-dark.png",
+      "accessibility": []
+    }
+  ],
+  "tests": [
+    {
+      "name": "public-catalog-and-filter",
+      "ok": true,
+      "evidence": {
+        "initial": 8,
+        "beauty": 1,
+        "adidas": 3
+      }
+    },
+    {
+      "name": "favorites-persist-after-reload",
+      "ok": true,
+      "evidence": {
+        "saved": 1
+      }
+    },
+    {
+      "name": "invalid-login-blocked",
+      "ok": true,
+      "evidence": {
+        "invalidCredentialsRejected": true
+      }
+    },
+    {
+      "name": "register-valid-plus-long-domain-and-password-validation",
+      "ok": true,
+      "evidence": {
+        "emailAccepted": true,
+        "weakPasswordBlocked": true,
+        "mismatchBlocked": true,
+        "rawPasswordStored": false
+      }
+    },
+    {
+      "name": "guest-favorites-merged-into-account",
+      "ok": true,
+      "evidence": {
+        "favoriteTransferred": true
+      }
+    },
+    {
+      "name": "cart-variant-quantity-stock-and-coupon",
+      "ok": true,
+      "evidence": {
+        "quantity": 2,
+        "size": "39",
+        "totalCents": 26982,
+        "persisted": true
+      }
+    },
+    {
+      "name": "wallet-deposit-validations-and-persistence",
+      "ok": true,
+      "evidence": {
+        "balanceCents": 100000,
+        "invalidAmountBlocked": true
+      }
+    },
+    {
+      "name": "checkout-validation-wallet-debit-and-order-history",
+      "ok": true,
+      "evidence": {
+        "orderCount": 1,
+        "totalCents": 27972,
+        "balanceCents": 72028,
+        "cartCleared": true
+      }
+    },
+    {
+      "name": "address-profile-and-xss-escaping",
+      "ok": true,
+      "evidence": {
+        "htmlEscaped": true,
+        "addressSaved": true
+      }
+    },
+    {
+      "name": "report-comment-attachment-rejection-and-local-record",
+      "ok": true,
+      "evidence": {
+        "attachmentMetadataSaved": true,
+        "invalidFileBlocked": true,
+        "commentSaved": true
+      }
+    },
+    {
+      "name": "newsletter-is-local-and-no-get-parameters",
+      "ok": true,
+      "evidence": {
+        "saved": true,
+        "noPersonalDataInURL": true
+      }
+    },
+    {
+      "name": "theme-persists-between-routes",
+      "ok": true,
+      "evidence": {
+        "theme": "dark"
+      }
+    },
+    {
+      "name": "password-recovery-with-issued-code",
+      "ok": true,
+      "evidence": {
+        "invalidCodeBlocked": true,
+        "newPasswordWorks": true
+      }
+    },
+    {
+      "name": "mobile-menu-after-repeated-resizes",
+      "ok": true,
+      "evidence": {
+        "iterations": 3,
+        "scrollLockConsistent": true
+      }
+    },
+    {
+      "name": "offline-third-party-independence",
+      "ok": true,
+      "evidence": {
+        "noExternalResourcesRequired": true
+      }
+    }
+  ],
+  "fatal": null,
+  "functionalErrors": [],
+  "failedRequests": []
+}

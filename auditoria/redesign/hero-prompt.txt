@@ -1,0 +1,5 @@
+Built-in ImageGen. Use case: background-extraction.
+Input: img/c1.jpg (original repository photo).
+Prompt: Remove only the flat gray background, leaving actual transparent alpha around the shoe. Preserve the exact shoe silhouette, proportions, orientation, position, black leather texture, white heel tab, three white stripes, all existing lettering including SUPERSTAR, laces and black sole. Do not redraw or restyle the product. Keep the entire shoe fully in frame with modest transparent padding. No added objects, no added text, no colored backdrop, no decorative shadow. Output a crisp landscape PNG with genuine transparency.
+The generated cutout was inspected and exported at 900 px wide to WebP for the site. The original product gallery remains unchanged.
+Final project asset: img/hero-superstar.webp.

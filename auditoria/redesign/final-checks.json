@@ -1,0 +1,201 @@
+{
+  "checks": [
+    {
+      "name": "Insufficient wallet balance leaves state intact; stock limits and price snapshots",
+      "ok": true,
+      "evidence": {
+        "error": "Tu saldo de prueba no alcanza. Recarga la billetera o elige la simulación sin saldo.",
+        "stock": "Elige una combinación válida y una cantidad disponible.",
+        "total": 11900,
+        "unitPrice": 11900,
+        "balance": 8100
+      }
+    }
+  ],
+  "states": [
+    {
+      "name": "final-home-1440-light",
+      "layout": {
+        "viewport": 1440,
+        "width": 1440
+      },
+      "issues": []
+    },
+    {
+      "name": "final-home-1440-dark",
+      "layout": {
+        "viewport": 1440,
+        "width": 1440
+      },
+      "issues": []
+    },
+    {
+      "name": "final-home-768-light",
+      "layout": {
+        "viewport": 768,
+        "width": 768
+      },
+      "issues": []
+    },
+    {
+      "name": "final-home-768-dark",
+      "layout": {
+        "viewport": 768,
+        "width": 768
+      },
+      "issues": []
+    },
+    {
+      "name": "final-home-390-light",
+      "layout": {
+        "viewport": 390,
+        "width": 390
+      },
+      "issues": []
+    },
+    {
+      "name": "final-home-390-dark",
+      "layout": {
+        "viewport": 390,
+        "width": 390
+      },
+      "issues": []
+    },
+    {
+      "name": "final-home-320-light",
+      "layout": {
+        "viewport": 320,
+        "width": 320
+      },
+      "issues": []
+    },
+    {
+      "name": "final-home-320-dark",
+      "layout": {
+        "viewport": 320,
+        "width": 320
+      },
+      "issues": []
+    },
+    {
+      "name": "modal-product-light",
+      "layout": {
+        "viewport": 390,
+        "width": 390
+      },
+      "issues": []
+    },
+    {
+      "name": "mobile-drawer-light",
+      "layout": {
+        "viewport": 390,
+        "width": 390
+      },
+      "issues": []
+    },
+    {
+      "name": "modal-report-light",
+      "layout": {
+        "viewport": 390,
+        "width": 390
+      },
+      "issues": []
+    },
+    {
+      "name": "modal-wallet-light",
+      "layout": {
+        "viewport": 390,
+        "width": 390
+      },
+      "issues": []
+    },
+    {
+      "name": "modal-address-light",
+      "layout": {
+        "viewport": 390,
+        "width": 390
+      },
+      "issues": []
+    },
+    {
+      "name": "modal-checkout-light",
+      "layout": {
+        "viewport": 390,
+        "width": 390
+      },
+      "issues": []
+    },
+    {
+      "name": "modal-product-dark",
+      "layout": {
+        "viewport": 390,
+        "width": 390
+      },
+      "issues": []
+    },
+    {
+      "name": "mobile-drawer-dark",
+      "layout": {
+        "viewport": 390,
+        "width": 390
+      },
+      "issues": []
+    },
+    {
+      "name": "modal-report-dark",
+      "layout": {
+        "viewport": 390,
+        "width": 390
+      },
+      "issues": []
+    },
+    {
+      "name": "modal-wallet-dark",
+      "layout": {
+        "viewport": 390,
+        "width": 390
+      },
+      "issues": []
+    },
+    {
+      "name": "modal-address-dark",
+      "layout": {
+        "viewport": 390,
+        "width": 390
+      },
+      "issues": []
+    },
+    {
+      "name": "modal-checkout-dark",
+      "layout": {
+        "viewport": 390,
+        "width": 390
+      },
+      "issues": []
+    },
+    {
+      "name": "store-adidas",
+      "layout": {
+        "viewport": 390,
+        "width": 390
+      },
+      "issues": []
+    },
+    {
+      "name": "store-no-products",
+      "layout": {
+        "viewport": 390,
+        "width": 390
+      },
+      "issues": []
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "summary": {
+    "states": 22,
+    "issueStates": 0,
+    "errors": 0,
+    "failedRequests": 0
+  }
+}
